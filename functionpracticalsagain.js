@@ -96,5 +96,5 @@ function returnVehicles(names){
 let vehis=returnVehicles("toyota");
 console.log(vehis);
 let vehis1=returnVehicles('weirdcase vehicles');
-console.log(vehis1);1
+console.log(vehis1);
 
